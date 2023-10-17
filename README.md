@@ -24,7 +24,6 @@ _"If you are gonna do something, might as well do it then live in the fear of it
 - [Coursera Certification, Open Source Tools for Data Science](https://www.coursera.org/account/accomplishments/certificate/9JBVP4GJK6K7)
 - [IBM Certification, Python 101 for Data Science](https://courses.cognitiveclass.ai/certificates/86d0acfeea524127a6b6f5fb030cb74a)
 
-### Articles
 
 ### Articles
 

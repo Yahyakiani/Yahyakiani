@@ -12,9 +12,9 @@ _"If you are gonna do something, might as well do it then live in the fear of it
 | Project Name                                 | Technologies Used                                        | Live Demo/Repo | Role                  |
 | -------------------------------------------- | -------------------------------------------------------- | :------------: | --------------------- |
 | Neural Edge                                  | Python, SQLalchemy, PostgreSQL                           |   [Website](https://neuraledge.digital/)    | Core Developer        |
-| Colorblind Mode Chrome Extension (ColorSight)            | Javascript, Chrome Extension APIs                        |   [link](https://chrome.google.com/webstore/detail/colorsight/gfnndhpnnpmkkjdjlhanbhahfpkohgcn)[Code](https://github.com/Yahyakiani/color-sight-extension-chrome)    | Creator and Developer |
-| Real-Time Point of Interest Detection System | Python, Tensorflow, Kivy Framework, openCV, Raspberry PI |   [NA](#)    | Core Project Member   |
-| Tweet Sentiment Analyser Bot                 | NLTK, MatPlotlib, Pandas, NumPy                          |   [link](#)    | Core Developer        |
+| Colorblind Mode Chrome Extension (ColorSight)            | Javascript, Chrome Extension APIs                        |   [Link](https://chrome.google.com/webstore/detail/colorsight/gfnndhpnnpmkkjdjlhanbhahfpkohgcn) | [Code](https://github.com/Yahyakiani/color-sight-extension-chrome)    | Creator and Developer |
+| Real-Time Point of Interest Detection System | Python, Tensorflow, Kivy Framework, openCV, Raspberry PI |       | Core Project Member   |
+| Tweet Sentiment Analyser Bot                 | NLTK, MatPlotlib, Pandas, NumPy                          |   [Code](https://github.com/Yahyakiani/Tweet-Sentiment-Analyser)    | Core Developer        |
 
 [View all projects](#) (Add link to a page with all your projects if available)
 

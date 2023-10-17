@@ -13,10 +13,13 @@ _"If you are gonna do something, might as well do it then live in the fear of it
 | -------------------------------------------- | -------------------------------------------------------- | :------------: | --------------------- |
 | Neural Edge                                  | Python, SQLalchemy, PostgreSQL                           |   [Website](https://neuraledge.digital/)    | Core Developer        |
 | Colorblind Mode Chrome Extension (ColorSight)            | Javascript, Chrome Extension APIs                        |   [Link](https://chrome.google.com/webstore/detail/colorsight/gfnndhpnnpmkkjdjlhanbhahfpkohgcn) | [Code](https://github.com/Yahyakiani/color-sight-extension-chrome)    | Creator and Developer |
-| Real-Time Point of Interest Detection System | Python, Tensorflow, Kivy Framework, openCV, Raspberry PI |       | Core Project Member   |
 | Tweet Sentiment Analyser Bot                 | NLTK, MatPlotlib, Pandas, NumPy                          |   [Code](https://github.com/Yahyakiani/Tweet-Sentiment-Analyser)    | Core Developer        |
+| Micro Frontends DataSharing | React.js, Redux, JavaScript                                            | [Code](https://github.com/Yahyakiani/micro-frontends-DataSharing-Techniques) | Developer   |
+| Heartbeat             | JavaScript, GraphQL, Nodejs, PostgreSql                                                         | [Website](https://schellbrothers.com/why-choose-schell/heartbeat/) | Developer   |
+| Awesome CV            | LaTeX                                                                   | [Repo](https://github.com/Yahyakiani/Awesome-CV-working)    | Contributor |
+| LimeSurvey            | jQuery, JavaScript, PHP                                                      | [link](https://www.limesurvey.org/en/)                      | Contributor |
 
-[View all projects](#) (Add link to a page with all your projects if available)
+[View all projects](https://github.com/Yahyakiani?tab=repositories)
 
 ### Certifications
 
@@ -29,4 +32,4 @@ _"If you are gonna do something, might as well do it then live in the fear of it
 
 | Title                                                                                 | Technologies/Topics            | Read Time  | Link                                                                                                                                    |
 | ------------------------------------------------------------------------------------- | ------------------------------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Difference between useEffect, useMemo, and useCallback and when to use them in React? | React, JavaScript, React-Hooks | 8 min read | [Read](https://medium.com/@yahyakiani1/difference-between-useeffect-usememo-and-usecallback-and-when-to-use-them-in-react-dcab76390aaf) |
+| Difference between useEffect, useMemo, and useCallback and when to use them in React? | React, JavaScript, React-Hooks | 4 min read | [Read](https://medium.com/@yahyakiani1/difference-between-useeffect-usememo-and-usecallback-and-when-to-use-them-in-react-dcab76390aaf) |

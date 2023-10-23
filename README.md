@@ -5,7 +5,7 @@
 - Résumé (PDF): [Intern Resume](https://github.com/Yahyakiani/Yahyakiani/blob/main/cv.pdf)
 - Contact: [yahya.kayani@dal.ca](mailto:yahya.kayani@dal.ca)
 
-_"If you are gonna do something, might as well do it then live in the fear of it." Logen Ninefingers_
+_"If you are gonna do something, might as well do it then live in the fear of it."_
 
 ### Projects
 

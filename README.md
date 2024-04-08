@@ -2,7 +2,7 @@
 
 - Portfolio: [Portfolio](https://yahyakiani.github.io/reactJs-resume-template/)
 - Blog: [blog.yahyakiani.dev/](https://yahyakiani.github.io/blog.yahyakiani.dev/)
-- Résumé (PDF): [Intern Resume](https://github.com/Yahyakiani/Yahyakiani/blob/main/cv.pdf)
+<!--- Résumé (PDF): [Intern Resume](https://github.com/Yahyakiani/Yahyakiani/blob/main/cv.pdf)-->
 - Contact: [yahya.kayani@dal.ca](mailto:yahya.kayani@dal.ca)
 
 _"If you are gonna do something, might as well do it then live in the fear of it."_

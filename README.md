@@ -9,6 +9,7 @@
 
 - Master's CS student at Dalhousie University
 - Doing Research on Improving Reading skills and Assessment through NLP and Machine Learning
+- Published a Paper that's been accepted at a Top Conference [”Long‑form evaluation of model editing”](https://arxiv.org/abs/2402.09394)
 - Building internal dashboards for Dalhousie University as a Software Developer
 - Fixing worthwhile OpenSource Projects that have gone stale. 
 

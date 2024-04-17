@@ -2,10 +2,22 @@
 
 - Portfolio: [Portfolio](https://yahyakiani.github.io/reactJs-resume-template/)
 - Blog: [blog.yahyakiani.dev/](https://yahyakiani.github.io/blog.yahyakiani.dev/)
-<!--- Résumé (PDF): [Intern Resume](https://github.com/Yahyakiani/Yahyakiani/blob/main/cv.pdf)-->
 - Contact: [yahya.kayani@dal.ca](mailto:yahya.kayani@dal.ca)
+<!--- Résumé (PDF): [Intern Resume](https://github.com/Yahyakiani/Yahyakiani/blob/main/cv.pdf)-->
 
-_"If you are gonna do something, might as well do it then live in the fear of it."_
+### Current
+
+- Master's CS student at Dalhousie University
+- Doing Research on Improving Reading skills and Assessment through NLP and Machine Learning
+- Building internal dashboards for Dalhousie University as a Software Developer
+- Fixing worthwhile OpenSource Projects that have gone stale. 
+
+### Past Accomplishments
+
+- Worked with numerous startups and small businesses
+- Worked as a Tech Lead with exceptional performance
+- Made a Chrome extension for Color Blindness
+- Found and failed at a startup (Cyberg)
 
 ### Projects
 

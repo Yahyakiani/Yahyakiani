@@ -1,7 +1,7 @@
 ### Yahya Kayani
 
 - Portfolio: [Portfolio](https://yahyakiani.github.io/reactJs-resume-template/)
-- Blog: [blog.yahyakiani.dev/](https://yahyakiani.github.io/blog.yahyakiani.dev/)
+<!---- Blog: [blog.yahyakiani.dev/](https://yahyakiani.github.io/blog.yahyakiani.dev/)-->
 - Contact: [yahya.kayani@dal.ca](mailto:yahya.kayani@dal.ca)
 <!--- Résumé (PDF): [Intern Resume](https://github.com/Yahyakiani/Yahyakiani/blob/main/cv.pdf)-->
 

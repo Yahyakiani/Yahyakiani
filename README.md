@@ -1,15 +1,15 @@
 ### Yahya Kayani
 
-- Portfolio: [Portfolio](https://yahyakiani.github.io/reactJs-resume-template/)
+- Portfolio: [Portfolio](https://yahyakiani.github.io/portfolio.yahyakiani.me)
 <!---- Blog: [blog.yahyakiani.dev/](https://yahyakiani.github.io/blog.yahyakiani.dev/)-->
-- Contact: [yahya.kayani@dal.ca](mailto:yahya.kayani@dal.ca)
+- Contact: [yahyakiani1@gmail.com](mailto:yahyakiani1@gmail.com)
 <!--- Résumé (PDF): [Intern Resume](https://github.com/Yahyakiani/Yahyakiani/blob/main/cv.pdf)-->
 
 ### Current
 
 - Master's CS student at Dalhousie University
 - Doing Research on Improving Reading skills and Assessment through NLP and Machine Learning
-- Published a Paper that's been accepted at a Top Conference [”Long‑form evaluation of model editing”](https://arxiv.org/abs/2402.09394)
+- Collaborated on a Paper that's been accepted at a Top Conference [”Long‑form evaluation of model editing”](https://arxiv.org/abs/2402.09394)
 - Fixing worthwhile OpenSource Projects that have gone stale. 
 
 ### Past Accomplishments

@@ -14,10 +14,10 @@
 
 ### Past Accomplishments
 
-- Worked with numerous startups and small businesses
-- Worked as a Tech Lead with exceptional performance
+- Worked with a startup
+- Worked as a Tech Lead
 - Made a Chrome extension for Color Blindness
-- Found and failed at a startup (Cyberg)
+
 
 ### Projects
 

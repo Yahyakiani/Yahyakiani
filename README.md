@@ -23,11 +23,9 @@
 
 | Project Name                                 | Technologies Used                                        | Live Demo/Repo | Role                  |
 | -------------------------------------------- | -------------------------------------------------------- | :------------: | --------------------- |
-| Neural Edge                                  | Python, SQLalchemy, PostgreSQL                           |   [Website](https://neuraledge.digital/)    | Core Developer        |
 | Colorblind Mode Chrome Extension (ColorSight)            | Javascript, Chrome Extension APIs                        |   [Link](https://chrome.google.com/webstore/detail/colorsight/gfnndhpnnpmkkjdjlhanbhahfpkohgcn) - [Code](https://github.com/Yahyakiani/color-sight-extension-chrome)    | Creator and Developer |
 | Tweet Sentiment Analyser Bot                 | NLTK, MatPlotlib, Pandas, NumPy                          |   [Code](https://github.com/Yahyakiani/Tweet-Sentiment-Analyser)    | Core Developer        |
 | Micro Frontends DataSharing | React.js, Redux, JavaScript                                            | [Code](https://github.com/Yahyakiani/micro-frontends-DataSharing-Techniques) | Developer   |
-| Heartbeat             | JavaScript, GraphQL, Nodejs, PostgreSql                                                         | [Website](https://schellbrothers.com/why-choose-schell/heartbeat/) | Developer   |
 | Awesome CV            | LaTeX                                                                   | [Repo](https://github.com/Yahyakiani/Awesome-CV-working)    | Contributor |
 | LimeSurvey            | jQuery, JavaScript, PHP                                                      | [link](https://www.limesurvey.org/en/)                      | Contributor |
 

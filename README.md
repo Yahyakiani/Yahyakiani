@@ -7,8 +7,8 @@
 
 ### Current
 
-- Master's CS student at Dalhousie University
-- Research on Improving Reading skills and Assessment through NLP and Machine Learning
+- Master's CS from Dalhousie University
+- Researched on Improving Reading skills and Assessment through NLP and Machine Learning
 - Collaborated on a Paper that's been accepted at a Top Conference [”Long‑form evaluation of model editing”](https://arxiv.org/abs/2402.09394)
 - Fixing worthwhile OpenSource Projects that have gone stale. 
 

@@ -5,18 +5,12 @@
 - Contact: [yahyakiani1@gmail.com](mailto:yahyakiani1@gmail.com)
 <!--- Résumé (PDF): [Intern Resume](https://github.com/Yahyakiani/Yahyakiani/blob/main/cv.pdf)-->
 
-### Current
 
-- Master's CS from Dalhousie University
-- Researched on Improving Reading skills and Assessment through NLP and Machine Learning
-- Collaborated on a Paper that's been accepted at a Top Conference [”Long‑form evaluation of model editing”](https://arxiv.org/abs/2402.09394)
-- Fixing worthwhile OpenSource Projects that have gone stale. 
-
-### Past Accomplishments
+### Things i enjoyed working on
 
 - Worked with a startup
 - Worked as a Tech Lead
-- Made a Chrome extension for Color Blindness
+- Have a Passion for System performance and maintainence
 
 
 ### Projects
